@@ -45,19 +45,19 @@ MV情報やフォーメーション配置、メンバー紹介、聖地マップ
 ## 🖼 サンプル画像
 
 ### メインページ
-![メインページサンプル](/images/main-page.png)
+![メインページサンプル](./images/main-page.png)
 
 ### MVランキングページ
 
-![MVランキング](/images/mv-ranking.png)
+![MVランキング](./images/mv-ranking.png)
 
 ### フォーメーション予想ツール
 
-![フォーメーションサンプル](/images/create-formation.png)
+![フォーメーションサンプル](./images/create-formation.png)
 
 ### 聖地巡礼マップ
 
-![聖地巡礼マップサンプル](/images/spot-ping.png)
+![聖地巡礼マップサンプル](./images/spot-ping.png)
 
 > 📁 画像ファイルは `/public/images/` に保存してください。
 > Markdownでは `/images/ファイル名.png` の形式で使用可能です。
